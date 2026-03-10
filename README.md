@@ -8,6 +8,7 @@ Este projeto utiliza análise de dados para compreender os padrões de evasão e
 
 
 Tecnologias Utilizadas
+
 Python 3.10+ │ Análise e processamento de dados
 
 Pandas / NumPy │ Manipulação de dados
