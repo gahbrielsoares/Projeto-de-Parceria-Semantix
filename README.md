@@ -30,7 +30,7 @@ Os números do nosso levantamento são expressivos:
 Etapa de EnsinoAbandonos RegistradosAnos Iniciais (1º–5º ano)188,9 milAnos Finais (6º–9º ano)55 milEnsino Médio1.554,7 mil
 O Ensino Médio concentra sozinho 88% de todos os abandonos um desequilíbrio que revela onde a crise se materializa com mais força. A situação é ainda mais grave em recortes regionais:
 
-Acre: taxa de abandono de 37,4 — o estado mais crítico do país
+Acre: taxa de abandono de 37,4 o estado mais crítico do país
 
 Amapá: 27,8 | Bahia: 25,4 | Paraíba: 24,2
 
@@ -59,7 +59,7 @@ Entre as meninas, a gravidez na adolescência é a causa mais específica de aba
 
 3.4 Violência Escolar e Comunitária
 
-A violência — tanto dentro quanto fora da escola afasta alunos. Reportagem do Portal G1 (2023) sobre o relatório do INEP apontou que escolas em territórios com altas taxas de criminalidade registram absenteísmo até 60% maior que a média. O medo do caminho até a escola, o bullying e conflitos no entorno das instituições são fatores que, mesmo quando não declarados diretamente pelo aluno, aparecem como motivadores do abandono silencioso.
+A violência tanto dentro quanto fora da escola afasta alunos. Reportagem do Portal G1 (2023) sobre o relatório do INEP apontou que escolas em territórios com altas taxas de criminalidade registram absenteísmo até 60% maior que a média. O medo do caminho até a escola, o bullying e conflitos no entorno das instituições são fatores que, mesmo quando não declarados diretamente pelo aluno, aparecem como motivadores do abandono silencioso.
 
 3.5 Falta de Transporte e Distância Geográfica
 
@@ -106,15 +106,15 @@ O Brasil é um dos poucos países em desenvolvimento com um sistema robusto de c
 
 5.2 O que a Análise de Dados Permite Fazer
    
-a) Diagnóstico Preciso — Identificar onde o problema é mais grave e quem são os grupos mais vulneráveis, saindo das médias nacionais que escondem desigualdades.
+a) Diagnóstico Preciso Identificar onde o problema é mais grave e quem são os grupos mais vulneráveis, saindo das médias nacionais que escondem desigualdades.
 
-b) Predição e Alerta Precoce — Com algoritmos aplicados a dados de frequência, desempenho e perfil socioeconômico, é possível identificar alunos em risco de abandono antes que ele ocorra.
+b) Predição e Alerta Precoce Com algoritmos aplicados a dados de frequência, desempenho e perfil socioeconômico, é possível identificar alunos em risco de abandono antes que ele ocorra.
 
 c) Avaliação de Políticas — Medir o impacto real de programas como o Bolsa Família, distinguindo correlação de causalidade com metodologias rigorosas.
 
-d) Otimização de Recursos — Com um mapa de risco detalhado, secretarias de educação podem alocar recursos de forma prioritária, maximizando o impacto de cada real investido.
+d) Otimização de Recursos Com um mapa de risco detalhado, secretarias de educação podem alocar recursos de forma prioritária, maximizando o impacto de cada real investido.
 
-e) Transparência e Accountability — Dashboards públicos permitem que cidadãos e gestores acompanhem a evolução do problema e cobrem resultados das políticas implementadas.
+e) Transparência e Accountability Dashboards públicos permitem que cidadãos e gestores acompanhem a evolução do problema e cobrem resultados das políticas implementadas.
 
 5.3 Metodologia Aplicada neste Projeto
 
