@@ -21,14 +21,14 @@ Este documento apresenta a problemática do abandono escolar no Brasil sob a per
 O abandono escolar é definido como a interrupção da frequência do aluno à escola durante o ano letivo, mesmo que ele permaneça formalmente matriculado. É importante distingui-lo de conceitos próximos:
 
 Abandono: o aluno para de frequentar a escola durante o ano, mas sua matrícula ainda consta no sistema
-Evasão: o aluno não se rematricula no ano seguinte — consequência frequente do abandono não tratado
+Evasão: o aluno não se rematricula no ano seguinte consequência frequente do abandono não tratado
 Reprovação: o aluno completa o ano letivo sem atingir os critérios de aprovação
 
 Na prática, o abandono é o primeiro sinal visível de desengajamento. Quando não identificado e tratado a tempo, evolui para evasão definitiva. Por isso, combater o abandono é combater a evasão em sua origem.
 2.2 Dimensão do Problema no Brasil
 Os números do nosso levantamento são expressivos:
 Etapa de EnsinoAbandonos RegistradosAnos Iniciais (1º–5º ano)188,9 milAnos Finais (6º–9º ano)55 milEnsino Médio1.554,7 mil
-O Ensino Médio concentra sozinho 88% de todos os abandonos — um desequilíbrio que revela onde a crise se materializa com mais força. A situação é ainda mais grave em recortes regionais:
+O Ensino Médio concentra sozinho 88% de todos os abandonos um desequilíbrio que revela onde a crise se materializa com mais força. A situação é ainda mais grave em recortes regionais:
 
 Acre: taxa de abandono de 37,4 — o estado mais crítico do país
 
@@ -41,16 +41,17 @@ Apenas 77% dos jovens que iniciam o Ensino Fundamental chegam a concluir o Ensin
 
 3. As Causas do Abandono Escolar
    
-A literatura acadêmica, os dados do Censo Escolar e as reportagens recentes da imprensa brasileira convergem para uma compreensão multicausal do abandono. Ele não tem uma única razão — é o resultado de pressões simultâneas que se acumulam até que ficar na escola deixe de parecer viável para o jovem.
+A literatura acadêmica, os dados do Censo Escolar e as reportagens recentes da imprensa brasileira convergem para uma compreensão multicausal do abandono. Ele não tem uma única razão é o resultado de pressões simultâneas que se acumulam até que ficar na escola deixe de parecer viável para o jovem.
 
 3.1 Necessidade de Trabalhar
 
 A principal causa declarada de abandono no Brasil é a necessidade de trabalhar para ajudar no sustento da família. Segundo reportagem do G1/Globo (2023), pesquisa do IBGE mostrou que 29% dos jovens entre 15 e 29 anos que abandonaram a escola o fizeram por precisar trabalhar. Nas regiões Norte e Nordeste, esse percentual sobe para mais de 40%.
+
 O trabalho infantil, que ainda atinge cerca de 1,7 milhão de crianças e adolescentes no Brasil (PNAD 2023), é especialmente destrutivo: jovens que trabalham têm 3,2 vezes mais chance de abandonar a escola antes de concluir o Ensino Médio.
 
 3.2 Desinteresse e Desconexão com o Conteúdo Escolar
 
-O desinteresse aparece como segunda causa mais frequente. Reportagem da Agência Brasil (2023) destacou estudo do Instituto Unibanco que identificou que 43% dos estudantes do Ensino Médio não veem relevância prática no que aprendem em sala. Um currículo percebido como distante da realidade e do mercado de trabalho gera desmotivação progressiva — especialmente entre jovens de periferias e zonas rurais, que não enxergam uma conexão entre os estudos e suas perspectivas de vida.
+O desinteresse aparece como segunda causa mais frequente. Reportagem da Agência Brasil (2023) destacou estudo do Instituto Unibanco que identificou que 43% dos estudantes do Ensino Médio não veem relevância prática no que aprendem em sala. Um currículo percebido como distante da realidade e do mercado de trabalho gera desmotivação progressiva especialmente entre jovens de periferias e zonas rurais, que não enxergam uma conexão entre os estudos e suas perspectivas de vida.
 
 3.3 Gravidez na Adolescência
 
@@ -90,15 +91,18 @@ Saúde comprometida: Evidências mostram correlação entre baixa escolaridade e
 Para a sociedade brasileira:
 
 Perpetuação da pobreza: O abandono é um dos principais mecanismos de transmissão intergeracional da pobreza
+
 Menor produtividade: O IPEA estima que o custo econômico do abandono escolar chega a R$ 59 bilhões por ano em produtividade perdida
+
 Maior demanda por serviços sociais: Menor escolaridade está associada a maior criminalidade e maior dependência de programas de assistência
+
 Menor democracia: Cidadãos menos educados são mais vulneráveis à desinformação e têm menor participação cívica
 
 
 5. Como a Análise de Dados Pode Ajudar
    
 5.1 O Potencial dos Dados Educacionais Brasileiros
-O Brasil é um dos poucos países em desenvolvimento com um sistema robusto de coleta de dados educacionais. O Censo Escolar do INEP registra informações sobre mais de 180 mil escolas, 2 milhões de professores e 48 milhões de alunos. Combinado com dados da PNAD Contínua (IBGE), do CadÚnico (MDS) e do Atlas do Desenvolvimento Humano (PNUD), o país possui uma infraestrutura de dados capaz de responder perguntas complexas — se explorada adequadamente.
+O Brasil é um dos poucos países em desenvolvimento com um sistema robusto de coleta de dados educacionais. O Censo Escolar do INEP registra informações sobre mais de 180 mil escolas, 2 milhões de professores e 48 milhões de alunos. Combinado com dados da PNAD Contínua (IBGE), do CadÚnico (MDS) e do Atlas do Desenvolvimento Humano (PNUD), o país possui uma infraestrutura de dados capaz de responder perguntas complexas se explorada adequadamente.
 
 5.2 O que a Análise de Dados Permite Fazer
    
@@ -127,9 +131,9 @@ Visualização interativa no Looker Studio
 
 6. Conclusão
    
-O abandono escolar no Brasil é um problema grave, multifacetado e urgente — mas também é tratável, especialmente quando abordado com a precisão que a análise de dados oferece.
-Os dados já existem. As ferramentas estão disponíveis. O que este projeto demonstra é que combinar vontade institucional, capacidade técnica em análise de dados e acesso a fontes públicas de qualidade é suficiente para transformar números frios em conhecimento acionável — e conhecimento em políticas que mudam vidas.
-A análise de dados não vai, por si só, manter jovens na escola. Mas pode ser o instrumento que diz aos gestores onde olhar primeiro, quem precisa de ajuda urgente e o que tem funcionado — e isso, em um país do tamanho e complexidade do Brasil, faz toda a diferença.
+O abandono escolar no Brasil é um problema grave, multifacetado e urgente mas também é tratável, especialmente quando abordado com a precisão que a análise de dados oferece.
+Os dados já existem. As ferramentas estão disponíveis. O que este projeto demonstra é que combinar vontade institucional, capacidade técnica em análise de dados e acesso a fontes públicas de qualidade é suficiente para transformar números frios em conhecimento acionável e conhecimento em políticas que mudam vidas.
+A análise de dados não vai, por si só, manter jovens na escola. Mas pode ser o instrumento que diz aos gestores onde olhar primeiro, quem precisa de ajuda urgente e o que tem funcionado e isso, em um país do tamanho e complexidade do Brasil, faz toda a diferença.
 
 Referências
 
