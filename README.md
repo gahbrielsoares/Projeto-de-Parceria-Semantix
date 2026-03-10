@@ -59,11 +59,11 @@ Entre as meninas, a gravidez na adolescência é a causa mais específica de aba
 
 3.4 Violência Escolar e Comunitária
 
-A violência — tanto dentro quanto fora da escola — afasta alunos. Reportagem do Portal G1 (2023) sobre o relatório do INEP apontou que escolas em territórios com altas taxas de criminalidade registram absenteísmo até 60% maior que a média. O medo do caminho até a escola, o bullying e conflitos no entorno das instituições são fatores que, mesmo quando não declarados diretamente pelo aluno, aparecem como motivadores do abandono silencioso.
+A violência — tanto dentro quanto fora da escola afasta alunos. Reportagem do Portal G1 (2023) sobre o relatório do INEP apontou que escolas em territórios com altas taxas de criminalidade registram absenteísmo até 60% maior que a média. O medo do caminho até a escola, o bullying e conflitos no entorno das instituições são fatores que, mesmo quando não declarados diretamente pelo aluno, aparecem como motivadores do abandono silencioso.
 
 3.5 Falta de Transporte e Distância Geográfica
 
-Na zona rural, a distância entre a residência e a escola é um obstáculo físico concreto. Segundo levantamento do INEP citado pelo Correio Braziliense (2022), cerca de 3 milhões de alunos dependem de transporte escolar para chegar à escola, e falhas nesse serviço estão diretamente ligadas ao aumento do abandono em municípios do interior Norte e Nordeste. Escolas de Ensino Médio são menos numerosas que as de Ensino Fundamental, obrigando jovens rurais a percorrer distâncias maiores — o que torna o abandono uma opção "racional" diante do custo e do cansaço.
+Na zona rural, a distância entre a residência e a escola é um obstáculo físico concreto. Segundo levantamento do INEP citado pelo Correio Braziliense (2022), cerca de 3 milhões de alunos dependem de transporte escolar para chegar à escola, e falhas nesse serviço estão diretamente ligadas ao aumento do abandono em municípios do interior Norte e Nordeste. Escolas de Ensino Médio são menos numerosas que as de Ensino Fundamental, obrigando jovens rurais a percorrer distâncias maiores o que torna o abandono uma opção "racional" diante do custo e do cansaço.
 
 3.6 Impacto da Pandemia de COVID-19
 
@@ -72,7 +72,7 @@ A pandemia aprofundou todas as causas anteriores. Reportagem da Folha de S.Paulo
 
 4. Relevância e Impactos Sociais
    
-O abandono escolar não é apenas um problema educacional — é um problema de desenvolvimento humano com consequências que se estendem por toda a vida dos indivíduos.
+O abandono escolar não é apenas um problema educacional é um problema de desenvolvimento humano com consequências que se estendem por toda a vida dos indivíduos.
 4.1 Impacto Individual
 
 Para o jovem que abandona a escola:
