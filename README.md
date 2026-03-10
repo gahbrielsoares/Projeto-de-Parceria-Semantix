@@ -25,12 +25,12 @@ Jupyter Notebook │ Ambiente de análise exploratória
 
 
 Principais Observações
-Regiões Norte e Nordeste concentram as maiores taxas de evasão — acima de 14% no Ensino Médio
+Regiões Norte e Nordeste concentram as maiores taxas de evasão acima de 14% no Ensino Médio
 Trabalho infantil é o fator mais correlacionado com abandono escolar (r = 0.78)
 Acesso ao Bolsa Família reduz em até 23% a probabilidade de evasão em famílias vulneráveis
 Distância escola-residência acima de 5km triplica o risco de evasão em zonas rurais
 Gravidez na adolescência responde por 18% dos casos de abandono entre meninas de 14-17 anos
 
 
-Desenvolvido como parte do Projeto de Parceria Semantix — Trilha de Dados.
+Desenvolvido como parte do Projeto de Parceria Semantix.
 Este projeto utiliza dados públicos e abertos. Consulte cada fonte para os termos de uso específicos.
