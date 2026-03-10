@@ -1,8 +1,10 @@
 # Projeto-de-Parceria-Semantix
 
 Dissertação: Abandono Escolar no Brasil
+
 A Análise de Dados como Ferramenta de Transformação Educacional
-Projeto de Parceria Semantix | Trilha de Dados
+
+Projeto de Parceria Semantix
 
 
 1. Introdução
@@ -13,7 +15,8 @@ Segundo dados do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais), 
 Este documento apresenta a problemática do abandono escolar no Brasil sob a perspectiva da análise de dados: como fontes públicas e noticiosas nos ajudam a entender o fenômeno, identificar seus determinantes e orientar políticas públicas mais eficazes.
 
 
-3. Abandono Escolar: Conceito e Distinção
+2. Abandono Escolar: Conceito e Distinção
+   
 2.1 O que é Abandono Escolar?
 O abandono escolar é definido como a interrupção da frequência do aluno à escola durante o ano letivo, mesmo que ele permaneça formalmente matriculado. É importante distingui-lo de conceitos próximos:
 
@@ -28,8 +31,11 @@ Etapa de EnsinoAbandonos RegistradosAnos Iniciais (1º–5º ano)188,9 milAnos F
 O Ensino Médio concentra sozinho 88% de todos os abandonos — um desequilíbrio que revela onde a crise se materializa com mais força. A situação é ainda mais grave em recortes regionais:
 
 Acre: taxa de abandono de 37,4 — o estado mais crítico do país
+
 Amapá: 27,8 | Bahia: 25,4 | Paraíba: 24,2
+
 10 dos 13 estados no topo do ranking pertencem ao Norte e Nordeste
+
 Apenas 77% dos jovens que iniciam o Ensino Fundamental chegam a concluir o Ensino Médio
 
 
