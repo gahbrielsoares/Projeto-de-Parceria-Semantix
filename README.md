@@ -14,6 +14,7 @@ Segundo dados do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais), 
 
 Este documento apresenta a problemática do abandono escolar no Brasil sob a perspectiva da análise de dados: como fontes públicas e noticiosas nos ajudam a entender o fenômeno, identificar seus determinantes e orientar políticas públicas mais eficazes.
 
+Locckers: https://lookerstudio.google.com/reporting/1021d159-73d2-4bcc-a773-7b4d26bc6aa9
 
 2. Abandono Escolar: Conceito e Distinção
    
