@@ -6,12 +6,14 @@ Projeto de Parceria Semantix | Trilha de Dados
 
 
 1. Introdução
-O Brasil é um país de contrastes profundos — e a educação é um dos espelhos mais fiéis dessas contradições. Enquanto avançamos em matrículas e acesso à escola nas últimas décadas, uma realidade persistente desafia qualquer celebração prematura: milhões de jovens brasileiros abandonam a escola antes de completar a educação básica.
-Segundo dados do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais), o país registrou, em 2023, 1,55 milhão de abandonos apenas no Ensino Médio — a etapa que deveria ser a ponte entre a infância e o mundo adulto produtivo. Os dados do nosso dashboard reforçam essa realidade com nitidez: o Acre lidera o ranking nacional com taxa de 37,4, e estados do Norte e Nordeste dominam os primeiros lugares, revelando que o abandono escolar no Brasil não é um problema difuso — é um problema com endereço.
+O Brasil é um país de contrastes profundos e a educação é um dos espelhos mais fiéis dessas contradições. Enquanto avançamos em matrículas e acesso à escola nas últimas décadas, uma realidade persistente desafia qualquer celebração prematura: milhões de jovens brasileiros abandonam a escola antes de completar a educação básica.
+
+Segundo dados do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais), o país registrou, em 2023, 1,55 milhão de abandonos apenas no Ensino Médio a etapa que deveria ser a ponte entre a infância e o mundo adulto produtivo. Os dados do nosso dashboard reforçam essa realidade com nitidez: o Acre lidera o ranking nacional com taxa de 37,4, e estados do Norte e Nordeste dominam os primeiros lugares, revelando que o abandono escolar no Brasil não é um problema difuso é um problema com endereço.
+
 Este documento apresenta a problemática do abandono escolar no Brasil sob a perspectiva da análise de dados: como fontes públicas e noticiosas nos ajudam a entender o fenômeno, identificar seus determinantes e orientar políticas públicas mais eficazes.
 
 
-2. Abandono Escolar: Conceito e Distinção
+3. Abandono Escolar: Conceito e Distinção
 2.1 O que é Abandono Escolar?
 O abandono escolar é definido como a interrupção da frequência do aluno à escola durante o ano letivo, mesmo que ele permaneça formalmente matriculado. É importante distingui-lo de conceitos próximos:
 
