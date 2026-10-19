@@ -1,4 +1,29 @@
-# Projeto-de-Parceria-Semantix
+# Abandono Escolar no Brasil: Análise de Dados
+
+**Projeto em parceria com a Semantix.** Análise dos determinantes do abandono escolar no Brasil com dados públicos do INEP e do IBGE, do pipeline de coleta ao dashboard e às recomendações de política pública.
+
+📊 [Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/1021d159-73d2-4bcc-a773-7b4d26bc6aa9)
+
+## Principais achados
+
+- O **Ensino Médio concentra 88% dos abandonos** registrados (1,55 milhão em 2023).
+- **Norte e Nordeste** ocupam 10 dos 13 primeiros lugares do ranking estadual. O Acre lidera com taxa de 37,4.
+- A **necessidade de trabalhar** é o fator mais associado ao abandono, seguida do desinteresse pelo currículo.
+
+## Estrutura
+
+| Pasta | Conteúdo |
+| --- | --- |
+| `coleta de dados/` | Script Python de coleta e lista das fontes (INEP, IBGE, MDS, PNUD, IPEA) |
+| `modelagem/` | Pré-processamento e consolidação com Pandas, análise exploratória em notebook e relatório de insights |
+| `conclusões/` | Conclusões finais e recomendações |
+
+**Stack:** Python (Pandas, NumPy), Jupyter, Looker Studio
+
+---
+
+## Dissertação completa
+
 
 Dissertação: Abandono Escolar no Brasil
 
@@ -14,7 +39,7 @@ Segundo dados do INEP (Instituto Nacional de Estudos e Pesquisas Educacionais), 
 
 Este documento apresenta a problemática do abandono escolar no Brasil sob a perspectiva da análise de dados: como fontes públicas e noticiosas nos ajudam a entender o fenômeno, identificar seus determinantes e orientar políticas públicas mais eficazes.
 
-Locckers: https://lookerstudio.google.com/reporting/1021d159-73d2-4bcc-a773-7b4d26bc6aa9
+Dashboard (Looker Studio): https://lookerstudio.google.com/reporting/1021d159-73d2-4bcc-a773-7b4d26bc6aa9
 
 2. Abandono Escolar: Conceito e Distinção
    
